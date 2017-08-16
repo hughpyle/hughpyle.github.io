@@ -1,5 +1,5 @@
 # hughpyle.github.io
 
-[page.md](page.md)
+[page](page.md)
 
 http://hughpyle.github.io/
