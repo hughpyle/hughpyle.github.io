@@ -1,7 +1,5 @@
 # hughpyle.github.io
 
-one: [[index]]
+[page.md](page.md)
 
-two: [index.html](index.html)
-
-http://hughpyle..github.io/
+http://hughpyle.github.io/
